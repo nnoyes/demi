@@ -1,1 +1,1 @@
-pygame
+# No dependencies required
